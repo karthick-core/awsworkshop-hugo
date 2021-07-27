@@ -20,4 +20,4 @@ jobs:
           repo: karthick-core/awsworkshop
           dir: public
           branch: master
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITKEN }}
