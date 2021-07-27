@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "oyo"
 
-title = "AWS Modernization Workshop Sample - CoreStack"
+title = "AWS Modernization Workshop Sample"
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= "false"

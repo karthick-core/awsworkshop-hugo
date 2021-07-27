@@ -19,5 +19,5 @@ jobs:
         with:
           repo: corestack-awsworkshop/corestack-awsworkshop.github.io
           dir: public
-          branch: master
+          branch: main
           token: ${{ secrets.GITKEN }}
