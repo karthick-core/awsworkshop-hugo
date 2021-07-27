@@ -7,14 +7,14 @@ weight: 11
 
 Provisioning of VM using CFN / Terraform​
 
- - Please refer to the GitHub Account - (https://github.com/aws-samples/aws-modernization-with-corestack).​
+ - CFN Template - `https://raw.githubusercontent.com/corestacklabs/Templates/master/cfn/AWS_EC2_Instance_With_SecurityGroup/AWS_EC2_Instance_With_SecurityGroup.yml`
 
 Provisioning a DB using CFN / Terraform​
 
- - Please refer to the GitHub Account - (https://github.com/aws-samples/aws-modernization-with-corestack).​
+ - CFN Template - `https://raw.githubusercontent.com/corestacklabs/Templates/master/cfn/AWS_Provision_DynamoDB_Table/AWS_Dynamo_DB_Provision.yml`
 
 Provisioning a Container using CFN / Terraform​
 
- - Please refer to the GitHub Account - (https://github.com/aws-samples/aws-modernization-with-corestack).​
+ - CFN Template - `https://raw.githubusercontent.com/corestacklabs/Templates/master/cfn/AWS_Provision_EKS_Cluster/AWS_Provision_EKS_Cluster.yml`
 
 ​

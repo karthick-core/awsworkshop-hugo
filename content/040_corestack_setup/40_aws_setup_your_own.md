@@ -10,4 +10,4 @@ weight: 10
 
 Your CoreStack Account will be created after you have signed up for this workshop.
 
-Once your account is created, you will be able to login to [CoreStack](https://discover.corestack.io) and get started. Login information will be shared with you via email.
+Once your account is created, you will be able to login to [CoreStack](https://cloud.corestack.io) and get started. Login information will be shared with you via email.

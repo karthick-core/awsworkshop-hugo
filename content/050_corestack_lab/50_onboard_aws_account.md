@@ -10,4 +10,4 @@ weight: 10
 
 Please use the link below when created the CFT.​
 
-`https://corestack-cfn.s3.amazonaws.com/AWS_Create_IAM_Role_With_Corestack_Policies_content.json​`
+`https://corestack-cfn.s3.amazonaws.com/AWS_Create_IAM_Role_For_CorestackAssessmentandGovernance_content.json​`
