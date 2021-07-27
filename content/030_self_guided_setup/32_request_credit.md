@@ -19,7 +19,7 @@ available while supplies last.
 <table class="credit" style="width:100%">
 <tr class="credit">
   <td class="credit" style="width:40%">
-      <a href="https://aws.amazon.com/marketplace/pp/prodview-eenhk77mfzog4​" target="_blank"><img src="/images/setup/available-in-awsmp-badge2.png"></a>
+      <a href="https://aws.amazon.com/marketplace/pp/prodview-eenhk77mfzog4" target="_blank"><img src="/images/setup/available-in-awsmp-badge2.png"></a>
   </td>
 
   <td class="credit" style="width:60%">
