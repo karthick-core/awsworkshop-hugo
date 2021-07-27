@@ -17,7 +17,7 @@ jobs:
       - name: Publish generated content to GitHub Pages
         uses: tsunematsu21/actions-publish-gh-pages@v1.0.1
         with:
-          repo: karthick-core/awsworkshop
+          repo: corestack-awsworkshop/corestack-awsworkshop.github.io
           dir: public
           branch: master
           token: ${{ secrets.GITKEN }}
