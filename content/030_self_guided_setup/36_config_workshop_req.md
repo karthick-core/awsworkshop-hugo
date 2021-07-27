@@ -9,6 +9,7 @@ weight: 18
 {{% notice tip %}}
 **Template Actions​**
 {{% /notice %}}
+
 Template actions will be shown to every template listed when you are hovering mouse on a template. The list of actions depends on the scope of the template (Marketplace, My Templates) and the RBAC access for templates that user has.​
 
 **Execute** – Executes the template immediately and redirects to “Job history” where you can see the status and output of the execution.  ​
