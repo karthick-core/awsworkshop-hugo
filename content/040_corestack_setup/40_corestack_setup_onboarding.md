@@ -4,7 +4,7 @@ chapter: true
 weight: 10
 ---
 
-## CoreStack Account Setup
+## CoreStack Account Setup (Onboarding)
 
 Please go to the [CoreStack Dashboard](https://cloud.corestack.io/). Login with the email and password you used to sign up! There should be a confirmation email sent with your login information. Your greeting page should look like this:
 ![CoreStack Dashboard](/images/corestack-dashboard.png)
@@ -24,4 +24,4 @@ Please go to the [CoreStack Dashboard](https://cloud.corestack.io/). Login with 
 1. Go back to your CoreStack dashboard and paste the 2 values you copied from the step before and click the **VALIDATE** button.
 1. Drop down and select the region you used to create the CloudFormation stack for the role. Click the **I'M DONE** button, and you have now successfully linked your AWS account to CoreStack!!
 
-Let's moe the next section 
+Let's move to the next section

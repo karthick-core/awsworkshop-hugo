@@ -1,13 +1,13 @@
 ---
-title: "3. Validation of the Infra provisioned against AWS Well Architected Framework (WAF)"
+title: "4. Validation of the Infra provisioned against AWS Well Architected Framework"
 chapter: true
 weight: 14
 ---
 
-## Validation of the Infra provisioned against AWS Well Architected Framework (WAF) 
+## Validation of the Infra provisioned against AWS Well Architected Framework
 
 {{% notice tip %}}
-Execute some policies to validate certain AWS-WAF Controls in the resources provisioned
+Execute some policies to validate certain AWS Well Architected Framework Controls in the resources provisioned
 {{% /notice %}}
 
 CoreStack has support for a growing list of Industry specific Regulatory Compliance standard and Industry benchmark standards necessary for modern corporations in various sectors. CoreStack is committed in bringing industry leading technology in cloud governance with the ease of use unrivaled in today’s complicated tech landscape.  
