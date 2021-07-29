@@ -14,7 +14,7 @@ CoreStack has support for a growing list of Industry specific Regulatory Complia
 
 Each Compliance standard contains various controls or rules which represents guideline to be implemented by the Organization for the resources to comply with.  
 
-***Navigation ***
+***Navigation***
 
 1. Click on Compliance in the Left navigation menu and select Standards option to land in Compliance Controls screen.
 1. The tabs at the top represent the scope of the standards. There are 2 tabs – Marketplace and My Standards.
